@@ -1,2 +1,2 @@
 # Edge Detection with 2D Interpolation
-A Matlab project for automated image edge detection.
+A Matlab project for automatic image edge detection.
